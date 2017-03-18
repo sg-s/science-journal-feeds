@@ -658,3 +658,400 @@ Smart Materials and Structures  | http://iopscience.iop.org/0964-1726/?rss=1
 Superconductor Science and Technology  | http://iopscience.iop.org/0953-2048/?rss=1
 Surface Topography  | http://iopscience.iop.org/2051-672X/?rss=1
 Translational Materials Research  | http://iopscience.iop.org/2053-1613/?rss=1
+Acta Biochimica et Biophysica Sinica | https://academic.oup.com/rss/site_5254/3120.xml
+Adaptation | https://academic.oup.com/rss/site_5133/2994.xml
+Aesthetic Surgery Journal | https://academic.oup.com/rss/site_5358/3219.xml
+African Affairs | https://academic.oup.com/rss/site_5422/3283.xml
+Age and Ageing | https://academic.oup.com/rss/site_5255/3121.xml
+Alcohol and Alcoholism | https://academic.oup.com/rss/site_5359/3220.xml
+American Entomologist | https://academic.oup.com/rss/site_5360/3221.xml
+The American Historical Review | https://academic.oup.com/rss/site_5423/3284.xml
+American Journal of Agricultural Economics | https://academic.oup.com/rss/site_5424/3285.xml
+American Journal of Clinical Pathology | https://academic.oup.com/rss/site_5361/3222.xml
+American Journal of Comparative Law | https://academic.oup.com/rss/site_5576/3432.xml
+American Journal of Epidemiology | https://academic.oup.com/rss/site_5257/3123.xml
+American Journal of Hypertension | https://academic.oup.com/rss/site_5258/3124.xml
+The American Journal of Jurisprudence | https://academic.oup.com/rss/site_5425/3286.xml
+American Journal of Legal History | https://academic.oup.com/rss/site_5426/3287.xml
+American Law and Economics Review | https://academic.oup.com/rss/site_5427/3288.xml
+American Literary History | https://academic.oup.com/rss/site_5134/2995.xml
+Analysis | https://academic.oup.com/rss/site_5428/3289.xml
+Annals of Botany | https://academic.oup.com/rss/site_5260/3126.xml
+Annals of the Entomological Society of America | https://academic.oup.com/rss/site_5362/3223.xml
+Annals of Work Exposures and Health | https://academic.oup.com/rss/site_5565/3421.xml
+Annals of Oncology | https://academic.oup.com/rss/site_5262/3128.xml
+AoB PLANTS | https://academic.oup.com/rss/site_5263/3129.xml
+Applied Economic Perspectives and Policy | https://academic.oup.com/rss/site_5429/3290.xml
+Applied Linguistics | https://academic.oup.com/rss/site_5135/2996.xml
+Applied Mathematics Research eXpress | https://academic.oup.com/rss/site_5136/2997.xml
+Arbitration International | https://academic.oup.com/rss/site_5430/3291.xml
+Archives of Clinical Neuropsychology | https://academic.oup.com/rss/site_5120/2999.xml
+Aristotelian Society Supplementary Volume | https://academic.oup.com/rss/site_5431/3292.xml
+Arthropod Management Tests | https://academic.oup.com/rss/site_5363/3224.xml
+Astronomy & Geophysics | https://academic.oup.com/rss/site_5264/3130.xml
+Behavioral Ecology | https://academic.oup.com/rss/site_5138/3000.xml
+Bioinformatics | https://academic.oup.com/rss/site_5139/3001.xml
+Biological Journal of the Linnean Society | https://academic.oup.com/rss/site_5583/3439.xml
+Biology of Reproduction | https://academic.oup.com/rss/site_5566/3422.xml
+Biology Methods and Protocols | https://academic.oup.com/rss/site_5366/3227.xml
+Biometrika | https://academic.oup.com/rss/site_5265/3131.xml
+BioScience | https://academic.oup.com/rss/site_5266/3132.xml
+Bioscience Horizons: The International Journal of Student Research | https://academic.oup.com/rss/site_5140/3002.xml
+Biostatistics | https://academic.oup.com/rss/site_5141/3003.xml
+BJA: British Journal of Anaesthesia | https://academic.oup.com/rss/site_5267/3133.xml
+BJA Education | https://academic.oup.com/rss/site_5268/3134.xml
+Botanical Journal of the Linnean Society | https://academic.oup.com/rss/site_5596/3468.xml
+Brain | https://academic.oup.com/rss/site_5367/3228.xml
+Briefings in Bioinformatics | https://academic.oup.com/rss/site_5143/3005.xml
+Briefings in Functional Genomics | https://academic.oup.com/rss/site_5144/3006.xml
+The British Journal of Aesthetics | https://academic.oup.com/rss/site_5432/3293.xml
+The British Journal of Criminology | https://academic.oup.com/rss/site_5433/3294.xml
+The British Journal for the Philosophy of Science | https://academic.oup.com/rss/site_5434/3295.xml
+The British Journal of Social Work | https://academic.oup.com/rss/site_5435/3296.xml
+British Medical Bulletin | https://academic.oup.com/rss/site_5145/3007.xml
+British Yearbook of International Law | https://academic.oup.com/rss/site_5146/3008.xml
+Cambridge Journal of Economics | https://academic.oup.com/rss/site_5437/3298.xml
+Cambridge Journal of Regions, Economy and Society | https://academic.oup.com/rss/site_5438/3299.xml
+The Cambridge Quarterly | https://academic.oup.com/rss/site_5439/3300.xml
+Capital Markets Law Journal | https://academic.oup.com/rss/site_5147/3009.xml
+Carcinogenesis | https://academic.oup.com/rss/site_5148/3010.xml
+Cardiovascular Research | https://academic.oup.com/rss/site_5369/3230.xml
+Cerebral Cortex | https://academic.oup.com/rss/site_5122/3011.xml
+CESifo Economic Studies | https://academic.oup.com/rss/site_5440/3301.xml
+Chemical Senses | https://academic.oup.com/rss/site_5149/3012.xml
+Children & Schools | https://academic.oup.com/rss/site_5441/3302.xml
+The Chinese Journal of Comparative Law | https://academic.oup.com/rss/site_5150/3013.xml
+Chinese Journal of International Law | https://academic.oup.com/rss/site_5151/3014.xml
+The Chinese Journal of International Politics | https://academic.oup.com/rss/site_5442/3303.xml
+Christian bioethics: Non-Ecumenical Studies in Medical Morality | https://academic.oup.com/rss/site_5443/3304.xml
+Classical Receptions Journal | https://academic.oup.com/rss/site_5152/3015.xml
+Clinical Infectious Diseases | https://academic.oup.com/rss/site_5269/3135.xml
+Clinical Kidney Journal | https://academic.oup.com/rss/site_5270/3136.xml
+Community Development Journal | https://academic.oup.com/rss/site_5444/3305.xml
+The Computer Journal | https://academic.oup.com/rss/site_5271/3137.xml
+Conservation Physiology | https://academic.oup.com/rss/site_5272/3138.xml
+Contemporary Women's Writing | https://academic.oup.com/rss/site_5153/3016.xml
+Contributions to Political Economy | https://academic.oup.com/rss/site_5445/3306.xml
+Critical Values | https://academic.oup.com/rss/site_5370/3231.xml
+Current Legal Problems | https://academic.oup.com/rss/site_5446/3307.xml
+Current Zoology | https://academic.oup.com/rss/site_5274/3140.xml
+Database | https://academic.oup.com/rss/site_5154/3017.xml
+Digital Scholarship in the Humanities | https://academic.oup.com/rss/site_5447/3308.xml
+Diplomatic History | https://academic.oup.com/rss/site_5448/3309.xml
+Diseases of the Esophagus | https://academic.oup.com/rss/site_5568/3454.xml
+DNA Research | https://academic.oup.com/rss/site_5275/3141.xml
+Dynamics and Statistics of the Climate System | https://academic.oup.com/rss/site_5155/3018.xml
+Early Music | https://academic.oup.com/rss/site_5156/3019.xml
+Economic Policy | https://academic.oup.com/rss/site_5371/3232.xml
+ELT Journal | https://academic.oup.com/rss/site_5157/3020.xml
+Endocrine Reviews | https://academic.oup.com/rss/site_5593/3466.xml
+Endocrinology | https://academic.oup.com/rss/site_5592/3465.xml
+English: Journal of the English Association | https://academic.oup.com/rss/site_5449/3310.xml
+The English Historical Review | https://academic.oup.com/rss/site_5158/3021.xml
+Environmental Entomology | https://academic.oup.com/rss/site_5372/3233.xml
+Environmental Epigenetics | https://academic.oup.com/rss/site_5373/3234.xml
+Environmental History | https://academic.oup.com/rss/site_5450/3311.xml
+Environmental History Review | https://academic.oup.com/rss/site_5451/3312.xml
+EP Europace | https://academic.oup.com/rss/site_5374/3235.xml
+Epidemiologic Reviews | https://academic.oup.com/rss/site_5276/3142.xml
+ESHRE Monographs | https://academic.oup.com/rss/site_5277/3143.xml
+Essays in Criticism | https://academic.oup.com/rss/site_5159/3022.xml
+European Heart Journal | https://academic.oup.com/rss/site_5375/3236.xml
+European Heart Journal - Cardiovascular Imaging | https://academic.oup.com/rss/site_5376/3237.xml
+European Heart Journal - Cardiovascular Pharmacotherapy | https://academic.oup.com/rss/site_5377/3238.xml
+European Heart Journal - Quality of Care and Clinical Outcomes | https://academic.oup.com/rss/site_5378/3239.xml
+European Heart Journal Supplements | https://academic.oup.com/rss/site_5379/3240.xml
+European Journal of Cardio-Thoracic Surgery | https://academic.oup.com/rss/site_5278/3144.xml
+European Journal of International Law | https://academic.oup.com/rss/site_5452/3313.xml
+European Journal of Orthodontics | https://academic.oup.com/rss/site_5380/3241.xml
+European Journal of Public Health | https://academic.oup.com/rss/site_5381/3242.xml
+European Review of Agricultural Economics | https://academic.oup.com/rss/site_5453/3314.xml
+European Review of Economic History | https://academic.oup.com/rss/site_5454/3315.xml
+European Sociological Review | https://academic.oup.com/rss/site_5160/3023.xml
+Evolution, Medicine, and Public Health | https://academic.oup.com/rss/site_5279/3145.xml
+Family Practice | https://academic.oup.com/rss/site_5161/3024.xml
+FEMS Microbiology Ecology | https://academic.oup.com/rss/site_5383/3244.xml
+FEMS Microbiology Letters | https://academic.oup.com/rss/site_5385/3246.xml
+FEMS Microbiology Reviews | https://academic.oup.com/rss/site_5386/3247.xml
+FEMS Yeast Research | https://academic.oup.com/rss/site_5387/3248.xml
+Foreign Policy Analysis | https://academic.oup.com/rss/site_5388/3249.xml
+Forest & Conservation History | https://academic.oup.com/rss/site_5455/3316.xml
+Forestry: An International Journal of Forest Research | https://academic.oup.com/rss/site_5280/3146.xml
+Forum for Modern Language Studies | https://academic.oup.com/rss/site_5456/3317.xml
+French History | https://academic.oup.com/rss/site_5457/3318.xml
+French Studies | https://academic.oup.com/rss/site_5458/3319.xml
+French Studies Bulletin | https://academic.oup.com/rss/site_5459/3320.xml
+Gastroenterology Report | https://academic.oup.com/rss/site_5162/3025.xml
+Genome Biology and Evolution | https://academic.oup.com/rss/site_5281/3147.xml
+Geophysical Journal International | https://academic.oup.com/rss/site_5282/3148.xml
+Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society | https://academic.oup.com/rss/site_5283/3149.xml
+German History | https://academic.oup.com/rss/site_5460/3321.xml
+The Gerontologist | https://academic.oup.com/rss/site_5284/3150.xml
+GigaScience | https://academic.oup.com/rss/site_5589/3462.xml
+Global Summitry | https://academic.oup.com/rss/site_5389/3250.xml
+Glycobiology | https://academic.oup.com/rss/site_5163/3026.xml
+Health Education Research | https://academic.oup.com/rss/site_5164/3027.xml
+Health Policy and Planning | https://academic.oup.com/rss/site_5165/3028.xml
+Health Promotion International | https://academic.oup.com/rss/site_5166/3029.xml
+Health & Social Work | https://academic.oup.com/rss/site_5461/3322.xml
+History Workshop Journal | https://academic.oup.com/rss/site_5462/3323.xml
+Holocaust and Genocide Studies | https://academic.oup.com/rss/site_5463/3324.xml
+Human Molecular Genetics | https://academic.oup.com/rss/site_5124/3030.xml
+Human Reproduction | https://academic.oup.com/rss/site_5285/3151.xml
+Human Reproduction Update | https://academic.oup.com/rss/site_5286/3152.xml
+Human Rights Law Review | https://academic.oup.com/rss/site_5167/3031.xml
+ICES Journal of Marine Science | https://academic.oup.com/rss/site_5287/3153.xml
+ICSID Review - Foreign Investment Law Journal | https://academic.oup.com/rss/site_5464/3325.xml
+ILAR Journal | https://academic.oup.com/rss/site_5288/3154.xml
+IMA Journal of Applied Mathematics | https://academic.oup.com/rss/site_5289/3155.xml
+IMA Journal of Management Mathematics | https://academic.oup.com/rss/site_5290/3156.xml
+IMA Journal of Mathematical Control and Information | https://academic.oup.com/rss/site_5291/3157.xml
+IMA Journal of Numerical Analysis | https://academic.oup.com/rss/site_5292/3158.xml
+Industrial and Corporate Change | https://academic.oup.com/rss/site_5168/3032.xml
+Industrial Law Journal | https://academic.oup.com/rss/site_5465/3326.xml
+Information and Inference: A Journal of the IMA | https://academic.oup.com/rss/site_5293/3159.xml
+Insect Systematics and Diversity | https://academic.oup.com/rss/site_5595/3451.xml
+Integrative and Comparative Biology | https://academic.oup.com/rss/site_5294/3160.xml
+Interacting with Computers | https://academic.oup.com/rss/site_5295/3161.xml
+Interactive CardioVascular and Thoracic Surgery | https://academic.oup.com/rss/site_5296/3162.xml
+ISLE: Interdisciplinary Studies in Literature and Environment | https://academic.oup.com/rss/site_5466/3327.xml
+International Affairs | https://academic.oup.com/rss/site_5569/3425.xml
+International Data Privacy Law | https://academic.oup.com/rss/site_5169/3033.xml
+International Health | https://academic.oup.com/rss/site_5297/3163.xml
+International Immunology | https://academic.oup.com/rss/site_5298/3164.xml
+International Journal of Constitutional Law | https://academic.oup.com/rss/site_5170/3034.xml
+International Journal of Epidemiology | https://academic.oup.com/rss/site_5299/3165.xml
+International Journal of Law and Information Technology | https://academic.oup.com/rss/site_5171/3035.xml
+International Journal of Law, Policy and the Family | https://academic.oup.com/rss/site_5172/3036.xml
+International Journal of Lexicography | https://academic.oup.com/rss/site_5173/3037.xml
+International Journal of Low-Carbon Technologies | https://academic.oup.com/rss/site_5174/3038.xml
+International Journal of Neuropsychopharmacology | https://academic.oup.com/rss/site_5390/3251.xml
+International Journal of Public Opinion Research | https://academic.oup.com/rss/site_5467/3328.xml
+International Journal for Quality in Health Care | https://academic.oup.com/rss/site_5391/3252.xml
+International Journal of Refugee Law | https://academic.oup.com/rss/site_5175/3039.xml
+International Journal of Transitional Justice | https://academic.oup.com/rss/site_5176/3040.xml
+International Mathematics Research Notices | https://academic.oup.com/rss/site_5177/3041.xml
+International Mathematics Research Papers | https://academic.oup.com/rss/site_5178/3042.xml
+International Mathematics Research Surveys | https://academic.oup.com/rss/site_5179/3043.xml
+International Political Sociology | https://academic.oup.com/rss/site_5392/3253.xml
+International Relations of the Asia-Pacific | https://academic.oup.com/rss/site_5180/3044.xml
+International Studies Perspectives | https://academic.oup.com/rss/site_5393/3254.xml
+International Studies Quarterly | https://academic.oup.com/rss/site_5394/3255.xml
+International Studies Review | https://academic.oup.com/rss/site_5395/3256.xml
+ITNOW | https://academic.oup.com/rss/site_5300/3166.xml
+Japanese Journal of Clinical Oncology | https://academic.oup.com/rss/site_5181/3045.xml
+Jerusalem Review of Legal Studies | https://academic.oup.com/rss/site_5182/3046.xml
+Journal of African Economies | https://academic.oup.com/rss/site_5468/3329.xml
+Journal of the American Academy of Religion | https://academic.oup.com/rss/site_5469/3330.xml
+Journal of American History | https://academic.oup.com/rss/site_5470/3331.xml
+Journal of the American Medical Informatics Association | https://academic.oup.com/rss/site_5396/3257.xml
+Journal of Analytical Toxicology | https://academic.oup.com/rss/site_5183/3047.xml
+Journal of Antimicrobial Chemotherapy | https://academic.oup.com/rss/site_5301/3167.xml
+Journal of Antitrust Enforcement | https://academic.oup.com/rss/site_5184/3048.xml
+The Journal of Applied Poultry Research | https://academic.oup.com/rss/site_5302/3168.xml
+The Journal of Biochemistry | https://academic.oup.com/rss/site_5303/3169.xml
+Journal of Chromatographic Science | https://academic.oup.com/rss/site_5185/3049.xml
+Journal of Church and State | https://academic.oup.com/rss/site_5471/3332.xml
+The Journal of Clinical Endocrinology & Metabolism | https://academic.oup.com/rss/site_5591/3464.xml
+Journal of Competition Law & Economics | https://academic.oup.com/rss/site_5186/3050.xml
+Journal of Complex Networks | https://academic.oup.com/rss/site_5126/3051.xml
+Journal of Conflict and Security Law | https://academic.oup.com/rss/site_5187/3052.xml
+Journal of Consumer Research | https://academic.oup.com/rss/site_5397/3258.xml
+Journal of Crohn's and Colitis | https://academic.oup.com/rss/site_5398/3259.xml
+Journal of Crohn's and Colitis Supplements | https://academic.oup.com/rss/site_5399/3260.xml
+Journal of Crustacean Biology | https://academic.oup.com/rss/site_5570/3426.xml
+Journal of Cybersecurity | https://academic.oup.com/rss/site_5188/3053.xml
+The Journal of Deaf Studies and Deaf Education | https://academic.oup.com/rss/site_5189/3054.xml
+Journal of Design History | https://academic.oup.com/rss/site_5472/3333.xml
+Journal of Economic Entomology | https://academic.oup.com/rss/site_5400/3261.xml
+Journal of Economic Geography | https://academic.oup.com/rss/site_5190/3055.xml
+Journal of the Endocrine Society | https://academic.oup.com/rss/site_6066/3935.xml
+Journal of Environmental Law | https://academic.oup.com/rss/site_5191/3056.xml
+Journal of European Competition Law & Practice | https://academic.oup.com/rss/site_5192/3057.xml
+Journal of the European Economic Association | https://academic.oup.com/rss/site_5571/3427.xml
+Journal of Experimental Botany | https://academic.oup.com/rss/site_5304/3170.xml
+Journal of Financial Econometrics | https://academic.oup.com/rss/site_5193/3058.xml
+Journal of Financial Regulation | https://academic.oup.com/rss/site_5473/3334.xml
+Journal of Gerontology | https://academic.oup.com/rss/site_5305/3171.xml
+The Journals of Gerontology: Series A | https://academic.oup.com/rss/site_5306/3172.xml
+The Journals of Gerontology: Series B | https://academic.oup.com/rss/site_5307/3173.xml
+Journal of Global Security Studies | https://academic.oup.com/rss/site_5401/3262.xml
+Journal of Heredity | https://academic.oup.com/rss/site_5308/3174.xml
+The Journal of Hindu Studies | https://academic.oup.com/rss/site_5194/3059.xml
+Journal of Hip Preservation Surgery | https://academic.oup.com/rss/site_5195/3060.xml
+Journal of the History of Collections | https://academic.oup.com/rss/site_5196/3061.xml
+Journal of the History of Medicine and Allied Sciences | https://academic.oup.com/rss/site_5197/3062.xml
+Journal of Human Rights Practice | https://academic.oup.com/rss/site_5198/3063.xml
+The Journal of Infectious Diseases | https://academic.oup.com/rss/site_5309/3175.xml
+Journal of Insect Science | https://academic.oup.com/rss/site_5402/3263.xml
+Journal of Integrable Systems | https://academic.oup.com/rss/site_5199/3064.xml
+Journal of Integrated Pest Management | https://academic.oup.com/rss/site_5403/3264.xml
+Journal of Intellectual Property Law & Practice | https://academic.oup.com/rss/site_5200/3065.xml
+Journal of the International Commission on Radiation Units and Measurements | https://academic.oup.com/rss/site_5310/3176.xml
+Journal of International Criminal Justice | https://academic.oup.com/rss/site_5201/3066.xml
+Journal of International Dispute Settlement | https://academic.oup.com/rss/site_5202/3067.xml
+Journal of International Economic Law | https://academic.oup.com/rss/site_5203/3068.xml
+Journal of Islamic Studies | https://academic.oup.com/rss/site_5474/3335.xml
+Journal of Language Evolution | https://academic.oup.com/rss/site_5204/3069.xml
+Journal of Law and the Biosciences | https://academic.oup.com/rss/site_5205/3070.xml
+The Journal of Law, Economics, and Organization | https://academic.oup.com/rss/site_5475/3336.xml
+Journal of Legal Analysis | https://academic.oup.com/rss/site_5476/3337.xml
+Journal of Logic and Computation | https://academic.oup.com/rss/site_5311/3177.xml
+Journal of Mammalogy | https://academic.oup.com/rss/site_5404/3265.xml
+Journal of Medical Entomology | https://academic.oup.com/rss/site_5405/3266.xml
+The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine | https://academic.oup.com/rss/site_5478/3339.xml
+Journal of Molecular Cell Biology | https://academic.oup.com/rss/site_5313/3179.xml
+Journal of Molluscan Studies | https://academic.oup.com/rss/site_5314/3180.xml
+Journal of Music Therapy | https://academic.oup.com/rss/site_5315/3181.xml
+JNCI: Journal of the National Cancer Institute | https://academic.oup.com/rss/site_5125/3071.xml
+JNCI Monographs | https://academic.oup.com/rss/site_5206/3072.xml
+Journal of Neuropathology & Experimental Neurology | https://academic.oup.com/rss/site_5406/3267.xml
+Journal of the Pediatric Infectious Diseases Society | https://academic.oup.com/rss/site_5316/3182.xml
+Journal of Pediatric Psychology | https://academic.oup.com/rss/site_5317/3183.xml
+Journal of Petrology | https://academic.oup.com/rss/site_5207/3073.xml
+Journal of Plankton Research | https://academic.oup.com/rss/site_5208/3074.xml
+Journal of Plant Ecology | https://academic.oup.com/rss/site_5318/3184.xml
+Journal of Professions and Organization | https://academic.oup.com/rss/site_5209/3075.xml
+Journal of Public Administration Research and Theory | https://academic.oup.com/rss/site_5479/3340.xml
+Journal of Public Health | https://academic.oup.com/rss/site_5210/3076.xml
+Journal of Radiation Research | https://academic.oup.com/rss/site_5319/3185.xml
+Journal of Refugee Studies | https://academic.oup.com/rss/site_5211/3077.xml
+Journal of Semantics | https://academic.oup.com/rss/site_5212/3078.xml
+Journal of Semitic Studies | https://academic.oup.com/rss/site_5480/3341.xml
+Journal of Social History | https://academic.oup.com/rss/site_5213/3079.xml
+Journal of Surgical Case Reports | https://academic.oup.com/rss/site_5214/3080.xml
+Journal of Survey Statistics and Methodology | https://academic.oup.com/rss/site_5481/3342.xml
+The Journal of Theological Studies | https://academic.oup.com/rss/site_5215/3081.xml
+Journal of Travel Medicine | https://academic.oup.com/rss/site_5407/3268.xml
+Journal of Tropical Pediatrics | https://academic.oup.com/rss/site_5216/3082.xml
+Journal of Urban Ecology | https://academic.oup.com/rss/site_5408/3269.xml
+The Journal of World Energy Law & Business | https://academic.oup.com/rss/site_5483/3344.xml
+Lab Medicine | https://academic.oup.com/rss/site_5409/3270.xml
+Law, Probability and Risk | https://academic.oup.com/rss/site_5217/3083.xml
+The Leo Baeck Institute Year Book | https://academic.oup.com/rss/site_5484/3345.xml
+The Library | https://academic.oup.com/rss/site_5485/3346.xml
+Literary Imagination | https://academic.oup.com/rss/site_5486/3347.xml
+Literature and Theology | https://academic.oup.com/rss/site_5218/3084.xml
+Logic Journal of the IGPL | https://academic.oup.com/rss/site_5320/3186.xml
+London Review of International Law | https://academic.oup.com/rss/site_5219/3085.xml
+Mammalian Species | https://academic.oup.com/rss/site_5410/3271.xml
+Mathematical Medicine and Biology: A Journal of the IMA | https://academic.oup.com/rss/site_5321/3187.xml
+Medical Law Review | https://academic.oup.com/rss/site_5220/3086.xml
+Medical Mycology | https://academic.oup.com/rss/site_5322/3188.xml
+MELUS | https://academic.oup.com/rss/site_5488/3349.xml
+MHR: Basic science of reproductive medicine | https://academic.oup.com/rss/site_5323/3189.xml
+Microscopy | https://academic.oup.com/rss/site_5324/3190.xml
+Migration Studies | https://academic.oup.com/rss/site_5221/3087.xml
+Mind | https://academic.oup.com/rss/site_5489/3350.xml
+Modern Judaism - A Journal of Jewish Ideas and Experience | https://academic.oup.com/rss/site_5490/3351.xml
+Molecular Biology and Evolution | https://academic.oup.com/rss/site_5325/3191.xml
+Molecular Endocrinology | https://academic.oup.com/rss/site_6068/3936.xml
+Molecular Human Reproduction | https://academic.oup.com/rss/site_5323/3189.xml
+The Monist | https://academic.oup.com/rss/site_5491/3352.xml
+Monthly Notices of the Royal Astronomical Society | https://academic.oup.com/rss/site_5326/3192.xml
+Monthly Notices of the Royal Astronomical Society: Letters | https://academic.oup.com/rss/site_5327/3193.xml
+Music and Letters | https://academic.oup.com/rss/site_5222/3088.xml
+Music Theory Spectrum | https://academic.oup.com/rss/site_5492/3353.xml
+Music Therapy | https://academic.oup.com/rss/site_5329/3195.xml
+Music Therapy Perspectives | https://academic.oup.com/rss/site_5330/3196.xml
+The Musical Quarterly | https://academic.oup.com/rss/site_5223/3089.xml
+Mutagenesis | https://academic.oup.com/rss/site_5331/3197.xml
+National Science Review | https://academic.oup.com/rss/site_5332/3198.xml
+Nephrology Dialysis Transplantation | https://academic.oup.com/rss/site_5333/3199.xml
+Neuro-Oncology | https://academic.oup.com/rss/site_5334/3200.xml
+Neuro-Oncology Practice | https://academic.oup.com/rss/site_5335/3201.xml
+Neuroscience of Consciousness | https://academic.oup.com/rss/site_5412/3273.xml
+Neurosurgery | https://academic.oup.com/rss/site_5580/3436.xml
+Nicotine and Tobacco Research | https://academic.oup.com/rss/site_5336/3202.xml
+Notes and Queries | https://academic.oup.com/rss/site_5224/3090.xml
+Nucleic Acids Research | https://academic.oup.com/rss/site_5127/3091.xml
+Nucleic Acids Symposium Series | https://academic.oup.com/rss/site_5225/3092.xml
+Nutrition Reviews | https://academic.oup.com/rss/site_5413/3274.xml
+OAH Magazine of History | https://academic.oup.com/rss/site_5493/3354.xml
+Occupational Medicine | https://academic.oup.com/rss/site_5337/3203.xml
+Open Forum Infectious Diseases | https://academic.oup.com/rss/site_5338/3204.xml
+The Opera Quarterly | https://academic.oup.com/rss/site_5226/3093.xml
+Operative Neurosurgery | https://academic.oup.com/rss/site_5581/3437.xml
+The Oral History Review | https://academic.oup.com/rss/site_5494/3355.xml
+Oxford Art Journal | https://academic.oup.com/rss/site_5227/3094.xml
+Oxford Economic Papers | https://academic.oup.com/rss/site_5228/3095.xml
+Oxford Journal of Law and Religion | https://academic.oup.com/rss/site_5229/3096.xml
+Oxford Journal of Legal Studies | https://academic.oup.com/rss/site_5495/3356.xml
+Oxford Medical Case Reports | https://academic.oup.com/rss/site_5128/3097.xml
+Oxford Review of Economic Policy | https://academic.oup.com/rss/site_5230/3098.xml
+Paediatrics & Child Health | https://academic.oup.com/rss/site_5574/3430.xml
+Pain Medicine | https://academic.oup.com/rss/site_5414/3275.xml
+Parliamentary Affairs | https://academic.oup.com/rss/site_5496/3357.xml
+Past & Present | https://academic.oup.com/rss/site_5497/3358.xml
+Pathogens and Disease | https://academic.oup.com/rss/site_5415/3276.xml
+Pathology Patterns Reviews | https://academic.oup.com/rss/site_6064/3934.xml
+Philosophia Mathematica | https://academic.oup.com/rss/site_5231/3099.xml
+The Philosophical Quarterly | https://academic.oup.com/rss/site_5498/3359.xml
+Physical Therapy | https://academic.oup.com/rss/site_5575/3431.xml
+Plant and Cell Physiology | https://academic.oup.com/rss/site_5339/3205.xml
+Policing: A Journal of Policy and Practice | https://academic.oup.com/rss/site_5232/3100.xml
+Poultry Science | https://academic.oup.com/rss/site_5340/3206.xml
+Proceedings of the Aristotelian Society | https://academic.oup.com/rss/site_5500/3361.xml
+Proceedings of the Linnean Society of London | https://academic.oup.com/rss/site_5584/3440.xml
+Progress of Theoretical Physics | https://academic.oup.com/rss/site_5342/3208.xml
+Progress of Theoretical Physics Supplement | https://academic.oup.com/rss/site_5343/3209.xml
+Progress of Theoretical and Experimental Physics | https://academic.oup.com/rss/site_5341/3207.xml
+Protein Engineering, Design and Selection | https://academic.oup.com/rss/site_5233/3101.xml
+Public Health Ethics | https://academic.oup.com/rss/site_5234/3102.xml
+Public Opinion Quarterly | https://academic.oup.com/rss/site_5502/3363.xml
+Public Policy & Aging Report | https://academic.oup.com/rss/site_5344/3210.xml
+Publications of the Astronomical Society of Japan | https://academic.oup.com/rss/site_5345/3211.xml
+Publius: The Journal of Federalism | https://academic.oup.com/rss/site_5503/3364.xml
+QJM: An International Journal of Medicine | https://academic.oup.com/rss/site_5416/3277.xml
+The Quarterly Journal of Economics | https://academic.oup.com/rss/site_5504/3365.xml
+The Quarterly Journal of Mathematics | https://academic.oup.com/rss/site_5235/3103.xml
+The Quarterly Journal of Mechanics and Applied Mathematics | https://academic.oup.com/rss/site_5346/3212.xml
+Radiation Protection Dosimetry | https://academic.oup.com/rss/site_5236/3104.xml
+Refugee Survey Quarterly | https://academic.oup.com/rss/site_5237/3105.xml
+Regenerative Biomaterials | https://academic.oup.com/rss/site_5417/3278.xml
+Reports of Patent, Design and Trade Mark Cases | https://academic.oup.com/rss/site_5505/3366.xml
+Research Evaluation | https://academic.oup.com/rss/site_5238/3106.xml
+The Review of Asset Pricing Studies | https://academic.oup.com/rss/site_5506/3367.xml
+The Review of Corporate Finance Studies | https://academic.oup.com/rss/site_5507/3368.xml
+The Review of Economic Studies | https://academic.oup.com/rss/site_5508/3369.xml
+The Review of English Studies | https://academic.oup.com/rss/site_5239/3107.xml
+Review of Environmental Economics and Policy | https://academic.oup.com/rss/site_5509/3370.xml
+Review of Finance | https://academic.oup.com/rss/site_5510/3371.xml
+The Review of Financial Studies | https://academic.oup.com/rss/site_5511/3372.xml
+Rheumatology | https://academic.oup.com/rss/site_5347/3213.xml
+Schizophrenia Bulletin | https://academic.oup.com/rss/site_5240/3108.xml
+Science and Public Policy | https://academic.oup.com/rss/site_5241/3109.xml
+Screen | https://academic.oup.com/rss/site_5512/3373.xml
+Sleep | https://academic.oup.com/rss/site_5573/3429.xml
+Social Cognitive and Affective Neuroscience | https://academic.oup.com/rss/site_5242/3110.xml
+Social Forces | https://academic.oup.com/rss/site_5513/3374.xml
+Social History of Medicine | https://academic.oup.com/rss/site_5514/3375.xml
+Social Politics: International Studies in Gender, State & Society | https://academic.oup.com/rss/site_5243/3111.xml
+Social Problems | https://academic.oup.com/rss/site_5418/3279.xml
+Social Science Japan Journal | https://academic.oup.com/rss/site_5244/3112.xml
+Social Work | https://academic.oup.com/rss/site_5515/3376.xml
+Social Work Research | https://academic.oup.com/rss/site_5516/3377.xml
+Social Work Research and Abstracts | https://academic.oup.com/rss/site_5517/3378.xml
+Socio-Economic Review | https://academic.oup.com/rss/site_5245/3113.xml
+Sociology of Religion | https://academic.oup.com/rss/site_5518/3379.xml
+Statute Law Review | https://academic.oup.com/rss/site_5246/3114.xml
+Synthetic Biology | https://academic.oup.com/rss/site_5419/3280.xml
+Systematic Biology | https://academic.oup.com/rss/site_5349/3215.xml
+Teaching Mathematics and its Applications: An International Journal of the IMA | https://academic.oup.com/rss/site_5350/3216.xml
+Toxicological Sciences | https://academic.oup.com/rss/site_5351/3217.xml
+Transactions of Mathematics and its Applications: A Journal of the IMA | https://academic.oup.com/rss/site_5587/3443.xml
+Transactions of The Royal Society of Tropical Medicine and Hygiene | https://academic.oup.com/rss/site_5352/3218.xml
+Tree Physiology | https://academic.oup.com/rss/site_5247/3115.xml
+Trusts & Trustees | https://academic.oup.com/rss/site_5248/3116.xml
+Twentieth Century British History | https://academic.oup.com/rss/site_5249/3117.xml
+Uniform Law Review | https://academic.oup.com/rss/site_5520/3381.xml
+Virus Evolution | https://academic.oup.com/rss/site_5420/3281.xml
+Western Historical Quarterly | https://academic.oup.com/rss/site_5521/3382.xml
+Work, Aging and Retirement | https://academic.oup.com/rss/site_5421/3282.xml
+The World Bank Economic Review | https://academic.oup.com/rss/site_5522/3383.xml
+The World Bank Research Observer | https://academic.oup.com/rss/site_5523/3384.xml
+Yearbook of European Law | https://academic.oup.com/rss/site_5250/3118.xml
+Yearbook of International Environmental Law | https://academic.oup.com/rss/site_5251/3119.xml
+The Year's Work in Critical and Cultural Theory | https://academic.oup.com/rss/site_5524/3385.xml
+The Year's Work in English Studies | https://academic.oup.com/rss/site_5525/3386.xml
+Zoological Journal of the Linnean Society | https://academic.oup.com/rss/site_5579/3435.xml
