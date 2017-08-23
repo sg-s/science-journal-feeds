@@ -22,6 +22,8 @@ This repository contains what I believe is the largest collection of RSS/Atom fe
 - [ ] [Taylor & Francis](http://www.tandfonline.com/)
 - [x] Oxford University Press
 - [ ] [Cambridge University Press](https://www.cambridge.org/core/what-we-publish/journals) [discontinued](https://cogzest.com/2016/12/cambridge-university-press-pulled-its-rss-feeds/) thier RSS feeds. If they don't want people to read their journals, why bother publishing them?
+- [ ] [Royal Society of Chemisty](http://pubs.rsc.org/en/journals)
+- [ ] [Royal Society](https://royalsociety.org/journals/)
 
 ## Scripts
 
